@@ -1,0 +1,12 @@
+loguru
+matplotlib
+numpy
+pandas
+PyYAML
+scipy
+setuptools
+sounddevice
+soundfile
+torch
+torchaudio
+tqdm
